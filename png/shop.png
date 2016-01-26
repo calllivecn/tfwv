@@ -1,0 +1,9 @@
+framework_version=2.8.4.08
+so_version=1.6.6
+minFrameworkVersion=1.6.7
+minSOVersion=1.6.6
+bundle_path=assets/shop28408.png
+bundle_name=shop2.8.4.08.jar
+osgi_path=assets/osgidx2.7.2.jar
+osgi_name=osgi2.7.2.01.jar
+classname=org.tengxin.bu
